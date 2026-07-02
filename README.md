@@ -91,5 +91,10 @@ Toyota Land Cruiser 200 ❤️
 <p align="center">
 
 ⭐ Thanks for visiting my profile ⭐
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadovfidavs-dev/muhammadovfidavs-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
 </p>
